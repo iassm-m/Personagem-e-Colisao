@@ -47,9 +47,18 @@ Assets/
 ````
 ---
 
-### 🎥 DEMONSTRAÇÃO 
-![Demonstração de Personagem e Colisão](https://s176.convertio.me/p/JkXH1Do0spZT8-pZyVxYLg/756536de253ee531caaf28ff60c1c783/trigger.mov.gif)
+## 🛠️ Ferramentas Utilizadas
+- Unity (versão recomendada: 2021.3 LTS ou superior)  
+- C# para scripts de controle e colisão  
+- GitHub para versionamento e compartilhamento do projeto
+  
+---
 
+## 🎬 Conclusão
+Este projeto foi desenvolvido com dedicação para explorar conceitos fundamentais de **programação de jogos digitais**.  
+A implementação de colisões e alteração de materiais em Unity é um passo importante para compreender a lógica de interação em ambientes 3D.
 
-
+---
+## ⭐ Feito Por
+❤️**Iasmim Mann**❤️
 
